@@ -1,0 +1,12 @@
+yarn.lock
+yarn-error.log
+node_modules/
+package.json
+package-lock.json
+gulpfile.js
+gulpfile.babel.js
+.vscode/
+.gulp-cache
+.prettierignore
+.babelrc
+Dir.js
